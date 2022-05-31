@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.codechef.com/users/sherlock123456" target="blank"><img align="center" src="https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" alt="deepto" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/deepto-ghanti-39b844209/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepto" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/deepto-ghanti-39b844209/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepto" height="30" width="30" /></a>
 <a href="https://stackoverflow.com/users/16359800/sherlockreborn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="deepto" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/deeptoghanti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="deepto" height="30" width="40" /></a>
 <a href="https://www.facebook.com/deepto.ghanti/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="deepto" height="30" width="40" /></a>
