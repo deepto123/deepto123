@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deepto Ghanti</h1>
-<h3 align="center">A proactive Computer Science and Engineering major currently attending 6th semester (Pre-final year) at National Institute of Technology Durgapur. Aiming to leverage proven technical, communication, creative thinking and problem solving skills for the social good, welfare and betterment of the society.</h3>
+<h3 align="center">A proactive Computer Science and Engineering major currently attending 6th semester (Pre-final year) at National Institute of Technology Durgapur. Aiming to leverage proven technical, communication, creative thinking and problem solving skills for the welfare and betterment of the society.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepto123&label=Profile%20views&color=0e75b6&style=flat" alt="deepto123" /> </p>
 
